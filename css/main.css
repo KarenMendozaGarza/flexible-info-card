@@ -1,0 +1,37 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Open Sans';
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  background-color: #ccc;
+}
+
+img {
+  width: 100%;
+}
+
+h2 {
+  text-align: center;
+}
+
+li a {
+  text-decoration: none;
+  background-color: #444;
+  color: #fff;
+  padding: .5rem 1rem .6rem;
+}
+## Details
+
+/* - *Typefaces:* `Open Sans`
+- *Colours:* `#444`, `#000`
+- *Line-heights:* `1.5`
+- *Margins:* `1.5rem`
+- *Paddings:* `.5rem 1rem .6rem`, `2rem`
+- *Widths:* `24rem`, `16rem`, `5rem` */
